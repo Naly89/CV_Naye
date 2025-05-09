@@ -1,4 +1,4 @@
-# 📄 CV de Miss Yera
+# 📄 CV Naye
 
 ¡Hola! Soy **Yera Flores Sempertegui**, ingeniera industrial con MBA, y creadora de contenido educativo sobre tecnología y análisis de datos. Este repositorio contiene mi **currículum vitae actualizado**, diseñado para mostrar mi experiencia, habilidades y trayectoria profesional de forma clara y accesible.
 
